@@ -26,7 +26,7 @@ NEXT_PUBLIC_GEMINI_API_KEY=AIzaSyAsrtWbUT0gWVietc52-zWhF3UrZcnA-eQ
 or if encounter error .....................
 follow this steps ..  1. go to google ai studio    2.  create a new project     3.  open the project and generate your own api key 
 
-now save .ev.local 
+now save .env.local 
 
 First, run the development server:
 
