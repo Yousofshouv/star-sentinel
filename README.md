@@ -6,7 +6,27 @@ npm install
 
 npm install lucid-react
 
-npm install three
+npm install three 
+
+create a file in the root directory names         .env.local
+
+you can get your nasa open api key from https://api.nasa.gov/     
+
+for testing purpose use this ,  
+
+// save this environment varibales in your .env.local
+
+
+NASA_API_KEY=ZbBFTZOL2PSVU2drMMEq0gTQ2MjLvk5BLeFyaKL9
+
+GEMINI_API_KEY=AIzaSyAsrtWbUT0gWVietc52-zWhF3UrZcnA-eQ
+
+NEXT_PUBLIC_GEMINI_API_KEY=AIzaSyAsrtWbUT0gWVietc52-zWhF3UrZcnA-eQ
+
+or if encounter error .....................
+follow this steps ..  1. go to google ai studio    2.  create a new project     3.  open the project and generate your own api key 
+
+now save .ev.local 
 
 First, run the development server:
 
