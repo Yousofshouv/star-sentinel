@@ -18,7 +18,7 @@ NASA_API_KEY= // (collect your nasa pai key from the  https://api.nasa.gov/  )
 
 GEMINI_API_KEY=//collect your gemini api key  
 
- visit aistudio.google.com ----------> click on get started ----------------> get gemini api key
+ visit aistudio.google.com ----------> click on get started ----------------> get gemini api key--------> create api key;
 
 NEXT_PUBLIC_GEMINI_API_KEY= //collect your gemini api key  
 
