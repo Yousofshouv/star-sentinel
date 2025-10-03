@@ -57,6 +57,10 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 visit our live project      https://star-sentinel.vercel.app
 
+
+- we have used google veo3 and nanobanana model for video and image generation
+
+
 To learn more about Next.js, take a look at the following resources:
 
 - we have used google veo3 and nanobanana model for video and image generation
