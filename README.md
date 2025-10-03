@@ -14,7 +14,7 @@ you can get your nasa open api key from https://api.nasa.gov/
 
 // save this environment varibales in your .env.local
 
-NASA_API_KEY= // (collect your nasa pai key from the  https://api.nasa.gov/  )
+NASA_API_KEY= // (collect your nasa api key from the  https://api.nasa.gov/  )
 
 GEMINI_API_KEY=//collect your gemini api key  
 
