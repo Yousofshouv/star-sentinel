@@ -806,7 +806,7 @@ const SpaceWeatherForKids = () => {
                 <div className="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center mr-3 backdrop-blur-sm">
                   🏛️
                 </div>
-                Primary Government Source
+                Primary Source
               </h4>
               <p className="text-blue-200 mb-4 leading-relaxed text-sm md:text-base">
                 Space Weather Canada - Official government research division studying 
