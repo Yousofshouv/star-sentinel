@@ -40,7 +40,10 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-visit our live project      https://star-sentinel.vercel.app
+visit our live project      https://star-sentinel.vercel.app     
+
+
+#Our website is fully mobile ui responsive to make user experince smoother and learning smarter
 
 
 
